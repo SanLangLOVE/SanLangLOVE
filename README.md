@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SanLangLOVE ,you can call me sanlang
+- 👋 Boss您好 ,我叫张金成，有意向应聘贵公司：测试工程师or产品助理or后端Java开发等岗位
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on Android development
